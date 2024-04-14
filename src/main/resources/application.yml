@@ -1,0 +1,16 @@
+micronaut:
+  application:
+    name: configguide
+team:
+  name: 'Steelers'
+  color1: 'Red'
+  player-names:
+    - 'Mason'
+    - 'Jason'
+stadium:
+  coors:
+    city: 'Denver'
+    size: 4000
+  pnc:
+    city: 'NewYork'
+    size: 20002
